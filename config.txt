@@ -2,12 +2,12 @@ receptor = 2FQT.pdbqt
 
 center_x = -22.82
 center_y = 30.63
-center_z = -17.00
+center_z = -16.50
 
 size_x = 15
-size_y = 12
-size_z = 13
+size_y = 9
+size_z = 14
 
-exhaustiveness = 30
+exhaustiveness = 8
 
 num_modes = 9
